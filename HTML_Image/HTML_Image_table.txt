@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <title>Document</title>
+    <link rel="stylesheet" href="syle.css">
+</head>
+<body>
+    <img class="logo" src="https://clarusway.com/wp-content/uploads/2019/12/cw_sonk%C3%BC%C3%A7%C3%BCk2.png" alt="clarusway_logo">
+    <br>
+    <br>
+    <center>
+    <table border="8">
+        <tr>
+            <th colspan="4">AWS & DevOps</th>
+        </tr>
+        <tr align="left">
+            <th>day</th>
+            <th>Begin</th>
+            <th>End</th>
+            <th>Topic</th>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td>07:00 am</td>
+            <td>10;00 am</td>
+            <td>Computer Fundamentals</td>
+
+        </tr>
+        <tr>
+            <td rowspan="2">Thursday</td>
+            <td>07:00 am</td>
+            <td>07:50</td>
+            <td> <mark>HTML</mark> </td>
+        </tr>
+        <tr>
+            <td>08:00 am</td>
+            <td>08:50 am</td>
+            <td><del>CSS</del> </td>
+        </tr>
+
+    </table></center>
+</body>
+</html>
+
