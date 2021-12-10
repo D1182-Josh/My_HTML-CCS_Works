@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+    <h1>Clarusway Programs</h1>
+    <h3>1. AWS&DevOps</h3>
+            <p style="text-indent: 8pt;">Enhance your teck skills an <u>increase your
+        abililty</u> to delivery applications quicly by
+        learning services an <b>AWS</b> such as <br>
+        <ul type="circle">
+            <li>content</li>
+            <li>delivery</li>
+            <li>delivery</li>
+            <li>database storage</li>
+        </ul> <br> and much more.
+        </p> <hr>
+    <h3>2. Full Stack Developer</h3> <br>
+            <p style="text-indent: 8pt;"><mark>A full Stack Developer</mark> is <i>a sofware
+         and application developer</i> who is well equiped
+        to be on both <br>
+        <ul>
+            <li type="circle">Back-End <small>(server side)</small></li>
+            <ul type="square";>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JS</li>
+                <li> <del>Python</del> </li>
+
+            </ul>
+        
+        </ul>
+                <ul>
+                    <li type="circle">Back-End <small>(server side)</small></li>
+                    <ul type="square";>
+                        <li>The Language <sup> <small>Python</small> </sup></li>
+                        <li>The Framework <sub> <small>Python</small> </sub></li>
+                        <li>The Database <sub> <small>Python</small> </sub></li>
+    
+                    </ul>
+                
+                </ul>portion of web applications.
+            
+    
+    </p>
+     
+</body>
+</html>
